@@ -1,0 +1,1 @@
+Please manully install easse at https://github.com/feralvam/easse
